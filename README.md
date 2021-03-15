@@ -12,12 +12,12 @@ HTML5 CSS3
 <h3>Contact Me</h3>
 <ul>
   <li>
-    My Portfolio Website https://rhtwebportfolio.web.app/
+    My Portfolio Website <br /> https://rhtwebportfolio.web.app/
   </li>
   <li>
-    LinkedIn   https://www.linkedin.com/in/RhtWeb
+    LinkedIn <br />  https://www.linkedin.com/in/RhtWeb
   </li>
   <li>
-    GitHub      https://github.com/RhtWeb
+    GitHub  <br />    https://github.com/RhtWeb
   </li>
   </ul>
