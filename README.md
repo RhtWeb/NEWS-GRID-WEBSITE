@@ -2,7 +2,7 @@
 
 Frontend news website with CSS GRID
 
-CheckOut the Website
+<h2>CheckOut the Website</h2>
 https://rhtweb.github.io/NEWS-GRID-WEBSITE/
 
 Respnsive Website
