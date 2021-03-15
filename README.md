@@ -10,8 +10,12 @@ Respnsive Website
 HTML5 CSS3
 <ul>
   <li>
-My Portfolio Website https://rhtwebportfolio.web.app/
+    My Portfolio Website https://rhtwebportfolio.web.app/
   </li>
-LinkedIn   https://www.linkedin.com/in/RhtWeb
-GitHub      https://github.com/RhtWeb
-
+  <li>
+    LinkedIn   https://www.linkedin.com/in/RhtWeb
+  </li>
+  <li>
+    GitHub      https://github.com/RhtWeb
+  </li>
+  </ul>
