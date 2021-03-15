@@ -15,7 +15,7 @@ HTML5 CSS3
 <br />
 <table>
   <tr>
-   <td><img src="https://user-images.githubusercontent.com/55020650/111150375-089c4a80-85b4-11eb-8926-23369061d4b0.jpg" width="500" height="500"></td>
+   <td><img src="https://user-images.githubusercontent.com/55020650/111150375-089c4a80-85b4-11eb-8926-23369061d4b0.jpg" width="700" height="500"></td>
    <td>
     <h3>Contact Me</h3>
 <ul>
